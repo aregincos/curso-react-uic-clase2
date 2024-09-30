@@ -1,0 +1,24 @@
+.post-card-container {
+  width: 35rem;
+  height: 7rem;
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  gap: 8px;
+  border: 1px solid slategrey;
+  padding: 15px;
+}
+
+.post-card-input {
+  border: none;
+  background-color: #242424; /* #242424 */
+  width: 500px;
+  height: 3rem;
+}
+
+.post-card-container-options {
+  display: flex;
+  justify-content: space-between;
+  width: 500px;
+  padding-top: 15px;
+}

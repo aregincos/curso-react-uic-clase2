@@ -1,0 +1,15 @@
+.container-post-list {
+  width: 35rem;
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  gap: 8px;
+  border: 1px solid slategrey;
+  padding: 15px;
+}
+
+.container-post-img {
+  border-radius: 8px;
+  max-width: 30rem;
+  max-height: 30rem;
+}
